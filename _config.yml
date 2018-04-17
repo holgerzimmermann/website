@@ -1,0 +1,9 @@
+name: Gitarrenunterricht, Rödelheim, Frankfurt am Main
+markdown: redcarpet
+highliter: true
+permalink: /:categories/:year/:month/:day/:title
+destination: /Users/var/Projects/mine/GitHub/holger/holgerzimmermann.github.io
+description: Gitarrenunterricht, Rödelheim, Frankfurt am Main
+url: http://holgerzimmermann.gitub.io
+theme: jekyll-theme-cayman
+exclude: ['Rakefile','Gemfile','Gemfile.lock']
